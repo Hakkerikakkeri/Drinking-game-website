@@ -1,5 +1,5 @@
 # Drinking-game-website
-I made this in 20 minutes so yes very good
+I made this in 20 minutes and it looks simple and cool.
 
 ![image](https://user-images.githubusercontent.com/88773115/174512598-662d407a-4ff4-41ac-89bb-e8350086b76e.png)
 
