@@ -1,6 +1,6 @@
 # Drinking-game-website
 I made this in 20 minutes and its looking good and simple so enjoy!
-Kona
+Kona Kona
 
 ![image](https://user-images.githubusercontent.com/88773115/174512598-662d407a-4ff4-41ac-89bb-e8350086b76e.png)
 
